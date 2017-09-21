@@ -1,0 +1,7 @@
+# notes to yourself/teammates
+*
+
+!src/
+!src/**
+
+!.gitignore
